@@ -1,0 +1,7 @@
+- What is the purpose of a shell?
+- What did you learn by running shell commands?
+- How was using the terminal different from clicking through folders?
+
+-The purpose of a shell is to act as a middleman between a person and the computer's operating system.
+- I learned how to control my computer like a developer
+- It makes it easy,fast,smart and effeciently.
